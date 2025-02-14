@@ -1,0 +1,8 @@
+def com(go, som):
+    if go == som:
+        print('AHAHAHAHHAH')
+    else:
+        print('ooooowww shit')
+
+    
+com(2, 3)
